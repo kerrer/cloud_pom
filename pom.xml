@@ -27,10 +27,10 @@
     <url>https://github.com/philanthropix/ip-validator</url>
 
     <scm>
-        <connection>scm:git:https://github.com/philanthropix/ip-validator.git</connection>
-        <developerConnection>scm:git:https://github.com/philanthropix/ip-validator.git</developerConnection>
-        <url>https://github.com/philanthropix/ip-validator</url>
-        <tag>v1.0.1</tag>
+        <connection>scm:git:https://github.com/kerrer/cloud_pom.git</connection>
+        <developerConnection>scm:git:https://github.com/kerrer/cloud_pom.git</developerConnection>
+        <url>https://github.com/kerrer/cloud_pom</url>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
