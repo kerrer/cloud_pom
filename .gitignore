@@ -7,3 +7,6 @@ target
 .project
 .settings
 .factorypath
+*.releaseBackup
+release.properties
+
