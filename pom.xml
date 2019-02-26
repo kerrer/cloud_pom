@@ -10,7 +10,7 @@
 
     <groupId>com.scd.cloud.soa</groupId>
     <artifactId>cloud-pom</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>cloud parent</name>
@@ -30,7 +30,7 @@
         <connection>scm:git:https://github.com/kerrer/cloud_pom.git</connection>
         <developerConnection>scm:git:https://github.com/kerrer/cloud_pom.git</developerConnection>
         <url>https://github.com/kerrer/cloud_pom</url>
-        <tag>v1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
